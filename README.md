@@ -5,6 +5,8 @@
 
 Este projeto é um sistema de gestão e análise de dados desenvolvido em Python, utilizando como base o dataset público da Netflix (`netflix_titles.csv`). O software permite gerenciar o catálogo de filmes e séries, além de gerar relatórios estatísticos sobre o acervo.
 
+---
+
 ### 📖 Funcionalidades
 - **Gestão de Catálogo (CRUD):** Inserção, remoção, atualização e listagem de títulos.
 - **Filtros Avançados:** Busca por categorias específicas e exibição de títulos em ordem alfabética.
@@ -13,6 +15,8 @@ Este projeto é um sistema de gestão e análise de dados desenvolvido em Python
     - Cálculos de **Média** e **Mediana** de anos de lançamento e duração.
     - Identificação de valores **Mínimos** e **Máximos**.
     - Estatísticas sobre a quantidade de categorias por título.
+
+---
 
 ### 🛠️ Estrutura do Projeto
 O código foi desenvolvido de forma modular para facilitar a manutenção:
